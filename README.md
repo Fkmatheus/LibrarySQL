@@ -1,4 +1,5 @@
-------------------------------------------------------------------------- Português --------------------------------------------------------------------------------------------------
+- Português -
+
 Simulação de Livraria - Banco de Dados MySQL
 Este projeto simula o banco de dados de uma livraria usando MySQL. O objetivo é demonstrar a criação de um banco de dados do zero com tabelas, inserções e consultas.
 
@@ -17,9 +18,9 @@ Funcionalidades;
 Criação de Tabelas: Cada tabela foi criada para representar uma entidade da livraria.
 Inserção de Dados: Dados fictícios foram inseridos nas tabelas para fins de demonstração.
 Consultas SQL: Consultas foram criadas para recuperar dados específicos, como os livros mais vendidos e os detalhes dos clientes.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
------------------------------------------------------------------------- English -----------------------------------------------------------------------------------------------------
+- English -
+
 Bookstore Simulation - MySQL Database
 This project simulates a bookstore database using MySQL. The goal is to demonstrate the creation of a database from scratch with tables, insertions, and queries.
 
@@ -38,4 +39,4 @@ Features;
 Table Creation: Each table was created to represent an entity of the bookstore.
 Data Insertion: Fictional data was inserted into the tables for demonstration purposes.
 SQL Queries: Queries were created to retrieve specific data, such as best-selling books and customer details.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
